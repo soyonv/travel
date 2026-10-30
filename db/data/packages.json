@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pkg-coxs-4d", "slug": "coxs-bazar-long-weekend", "title": "Cox's Bazar Long Weekend", "destination": "coxs-bazar",
+    "summary": "Four days on the coast with Himchari, Inani and a slow morning at Teknaf. Built for a first visit.",
+    "durationDays": 4, "priceFromBdt": 16500, "priceNote": "Estimated cost for 2 travellers sharing a standard double room, based on our budget model. Not a live quote.",
+    "groupSize": "2–6 travellers",
+    "includes": ["3 nights standard accommodation", "Dhaka–Cox's Bazar return transport (bus)", "Local transport to Himchari and Inani", "Daily breakfast"],
+    "excludes": ["Flights", "Lunch and dinner", "Entry tickets", "Guide fees"],
+    "operatorName": null, "operatorStatus": "unverified", "availableDates": [], "image": "coxs-bazar", "status": "published"
+  },
+  {
+    "id": "pkg-sundarbans-3d", "slug": "sundarbans-boat-expedition", "title": "Sundarbans Boat Expedition", "destination": "sundarbans",
+    "summary": "Two nights on the water from Khulna or Mongla, with permitted forest stops and a naturalist guide.",
+    "durationDays": 3, "priceFromBdt": 21500, "priceNote": "Estimated per person for a shared vessel, excluding permits which vary by zone and season. Not a live quote.",
+    "groupSize": "4–12 travellers",
+    "includes": ["2 nights on board", "All meals on the boat", "Licensed guide", "Forest permit arrangement support"],
+    "excludes": ["Travel to Khulna", "Forest permit fees", "Personal insurance", "Tips"],
+    "operatorName": null, "operatorStatus": "unverified", "availableDates": [], "image": "sundarbans", "status": "published"
+  },
+  {
+    "id": "pkg-sylhet-3d", "slug": "sylhet-tea-and-wetlands", "title": "Sylhet Tea & Wetlands", "destination": "sylhet",
+    "summary": "Three days linking Sylhet city's shrines with Ratargul's swamp forest and the tea estates of Srimangal.",
+    "durationDays": 3, "priceFromBdt": 12800, "priceNote": "Estimated cost for 2 travellers sharing, using train travel and guesthouses. Not a live quote.",
+    "groupSize": "2–8 travellers",
+    "includes": ["2 nights accommodation", "Dhaka–Sylhet train (snub class options available)", "Local car with driver for 2 days", "Boat at Ratargul"],
+    "excludes": ["Meals", "Entry fees", "Guide", "Shopping"],
+    "operatorName": null, "operatorStatus": "unverified", "availableDates": [], "image": "sylhet", "status": "published"
+  },
+  {
+    "id": "pkg-sajek-3d", "slug": "sajek-cloud-valley", "title": "Sajek Cloud Valley", "destination": "sajek-valley",
+    "summary": "Two nights high in the hills for sunrise over the clouds, with a jeep ride along the ridge.",
+    "durationDays": 3, "priceFromBdt": 15500, "priceNote": "Estimated for 2 travellers sharing a valley cottage. Weekend and holiday rates are higher. Not a live quote.",
+    "groupSize": "2–6 travellers",
+    "includes": ["2 nights cottage accommodation", "Jeep transfer from Khagrachhari", "Breakfast and dinner", "Local guide"],
+    "excludes": ["Travel to Khagrachhari", "Lunch", "Extra jeep rides"],
+    "operatorName": null, "operatorStatus": "unverified", "availableDates": [], "image": "sajek", "status": "published"
+  },
+  {
+    "id": "pkg-heritage-5d", "slug": "unesco-heritage-circuit", "title": "UNESCO Heritage Circuit", "destination": "bagerhat",
+    "summary": "Five days across Bagerhat, Paharpur and Old Dhaka for travellers who want the history properly explained.",
+    "durationDays": 5, "priceFromBdt": 28500, "priceNote": "Estimated for 2 travellers sharing, including internal transport by car. Not a live quote.",
+    "groupSize": "2–8 travellers",
+    "includes": ["4 nights accommodation", "Private car with driver", "Site guide at Paharpur and Bagerhat", "Breakfast"],
+    "excludes": ["Flights", "Entry tickets", "Meals other than breakfast"],
+    "operatorName": null, "operatorStatus": "unverified", "availableDates": [], "image": "paharpur", "status": "published"
+  },
+  {
+    "id": "pkg-kuakata-3d", "slug": "kuakata-sunrise-sunset", "title": "Kuakata Sunrise & Sunset", "destination": "kuakata",
+    "summary": "A quiet coastal break with both horizons, a boat to Fatrar Char and Rakhine village food.",
+    "durationDays": 3, "priceFromBdt": 11500, "priceNote": "Estimated for 2 travellers sharing a basic hotel. Not a live quote.",
+    "groupSize": "2–6 travellers",
+    "includes": ["2 nights accommodation", "Dhaka–Kuakata bus", "Local transport", "Breakfast"],
+    "excludes": ["Boat trips", "Meals", "Guide"],
+    "operatorName": null, "operatorStatus": "unverified", "availableDates": [], "image": "kuakata", "status": "published"
+  },
+  {
+    "id": "pkg-bandarban-4d", "slug": "bandarban-ridge-trek", "title": "Bandarban Ridge Trek", "destination": "bandarban",
+    "summary": "Four days of ridge roads and village walks with an optional guided trek, led by local guides.",
+    "durationDays": 4, "priceFromBdt": 19800, "priceNote": "Estimated per person for a group of four, including guide and permits where required. Not a live quote.",
+    "groupSize": "4–8 travellers",
+    "includes": ["3 nights accommodation", "Local guide", "Jeep transfers", "Breakfast and dinner"],
+    "excludes": ["Travel to Bandarban", "Trek permits", "Lunch", "Personal gear"],
+    "operatorName": null, "operatorStatus": "unverified", "availableDates": [], "image": "bandarban", "status": "published"
+  },
+  {
+    "id": "pkg-olddhaka-food", "slug": "old-dhaka-food-walk", "title": "Old Dhaka Food & Heritage Walk", "destination": "old-dhaka",
+    "summary": "A half-day guided walk through Mughal lanes with breakfast, biryani and a Buriganga launch ride.",
+    "durationDays": 1, "priceFromBdt": 3200, "priceNote": "Estimated per person including food and boat ride. Not a live quote.",
+    "groupSize": "2–10 travellers",
+    "includes": ["Local guide", "Breakfast and lunch tastings", "Buriganga launch ride", "Entry to one heritage site"],
+    "excludes": ["Transport to Old Dhaka", "Extra food", "Shopping"],
+    "operatorName": null, "operatorStatus": "unverified", "availableDates": [], "image": "old-dhaka", "status": "published"
+  }
+]

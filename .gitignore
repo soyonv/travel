@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.open-next/
+.vercel/
+out/
+build/
+.seed/
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+coverage/
+npm-debug.log*

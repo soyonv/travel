@@ -1,0 +1,29 @@
+{
+  "announcements": [
+    {
+      "id": "ann-winter",
+      "messageEn": "Winter is the best window for the Sundarbans and the coast — but permits, boat schedules and hill-area access change. Check the advisory panel before you book.",
+      "messageBn": "সুন্দরবন ও উপকূলের জন্য শীতকাল সবচেয়ে ভালো সময় — তবে পারমিট, লঞ্চের সময়সূচি ও পাহাড়ি এলাকার অনুমতি বদলাতে পারে। বুকিংয়ের আগে অ্যাডভাইজরি দেখুন।",
+      "link": "/travel-guides/sundarbans-permits-and-seasons",
+      "active": 1,
+      "sort": 1
+    },
+    {
+      "id": "ann-ai",
+      "messageEn": "New: BanglaVoyage AI can draft a day-by-day plan in Bangla or English, grounded in this site's destination data.",
+      "messageBn": "নতুন: বাংলাভয়েজ এআই বাংলা বা ইংরেজিতে দিনভিত্তিক পরিকল্পনা তৈরি করতে পারে।",
+      "link": "/ai-travel-agent",
+      "active": 1,
+      "sort": 2
+    }
+  ],
+  "settings": {
+    "site_name": "Discover Bangladesh AI",
+    "tagline": "Every Journey Tells a Story",
+    "contact_email": "hello@discoverbangladesh.ai",
+    "ai_agent_name": "BanglaVoyage AI",
+    "currency_default": "BDT",
+    "editorial_policy_updated": "2026-09-01",
+    "content_disclaimer": "Estimates and AI suggestions are planning aids, not bookings. Verify prices, schedules and access with the provider or official authority before travelling."
+  }
+}

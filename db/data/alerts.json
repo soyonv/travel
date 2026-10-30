@@ -1,0 +1,42 @@
+[
+  {
+    "id": "alert-sundarbans-season",
+    "title": "Sundarbans: seasonal tourist closure",
+    "body": "The Forest Department restricts tourist entry to the Sundarbans for roughly three months during the monsoon, usually from 1 June to 31 August. Dates can change and individual ranges may be closed separately. Do not pay a boat operator for a reserve trip until the current position is confirmed.",
+    "severity": "warning",
+    "region": "Khulna, Bagerhat, Satkhira",
+    "sourceUrl": "https://bforest.gov.bd/",
+    "sourceName": "Bangladesh Forest Department",
+    "active": 1
+  },
+  {
+    "id": "alert-saint-martin",
+    "title": "Saint Martin's Island: seasonal access and plastics rules",
+    "body": "Boat services to Saint Martin's run seasonally and are suspended in rough weather. Authorities have periodically limited visitor numbers and restricted single-use plastics on the island. Confirm the current boat schedule, access rules and any permit requirement before travelling, especially for foreign nationals.",
+    "severity": "caution",
+    "region": "Cox's Bazar",
+    "sourceUrl": "https://coxsbazar.gov.bd/",
+    "sourceName": "Cox's Bazar District Administration",
+    "active": 1
+  },
+  {
+    "id": "alert-hill-permits",
+    "title": "Hill districts: check permits before remote travel",
+    "body": "Some unions in Bandarban, Rangamati and Khagrachhari require permits or are restricted at short notice, particularly for foreign nationals and for routes towards Thanchi, Ruma and Rowangchhari. Ask the district administration or a licensed operator before booking remote treks, and carry photo ID.",
+    "severity": "caution",
+    "region": "Chattogram Hill Tracts",
+    "sourceUrl": "https://bandarban.gov.bd/",
+    "sourceName": "Bandarban District Administration",
+    "active": 1
+  },
+  {
+    "id": "alert-cyclone",
+    "title": "Bay of Bengal: cyclone season",
+    "body": "Cyclones can form in the Bay of Bengal between April and December, with peaks before and after the monsoon. Coastal districts operate cyclone shelters and warning flags. If a warning is issued, leave the beach and follow local administration instructions rather than trying to travel.",
+    "severity": "info",
+    "region": "Coastal districts",
+    "sourceUrl": "https://bmd.gov.bd/",
+    "sourceName": "Bangladesh Meteorological Department",
+    "active": 1
+  }
+]

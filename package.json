@@ -1,0 +1,52 @@
+{
+  "name": "discover-bangladesh-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Discover Bangladesh AI — an AI-powered Bangladesh travel discovery and trip planning platform.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:worker": "opennextjs-cloudflare build",
+    "preview:worker": "opennextjs-cloudflare preview",
+    "deploy:worker": "opennextjs-cloudflare deploy",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "db:migrate:local": "wrangler d1 execute DB --local --file=db/migrations/0001_init.sql -c wrangler.jsonc",
+    "db:seed:local": "node scripts/make-seed-sql.mjs && wrangler d1 execute DB --local --file=.seed/seed.sql -c wrangler.jsonc",
+    "db:migrate:remote": "wrangler d1 execute DB --remote --file=db/migrations/0001_init.sql -c wrangler.jsonc",
+    "db:seed:remote": "node scripts/make-seed-sql.mjs && wrangler d1 execute DB --remote --file=.seed/seed.sql -c wrangler.jsonc",
+    "admin:create": "node scripts/create-admin.mjs"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "drizzle-orm": "^0.45.4",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.61.0",
+    "motion": "^14.6.0",
+    "next": "^15.5.28",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwind-merge": "^3.7.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@opennextjs/cloudflare": "^1.20.13",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/leaflet": "^1.9.22",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "postcss": "^8.5.31",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.5",
+    "wrangler": "^4.151.3"
+  },
+  "allowScripts": {
+    "workerd@1.20261019.1": true,
+    "esbuild@0.28.2": true
+  }
+}
